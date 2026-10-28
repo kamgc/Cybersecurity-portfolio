@@ -24,7 +24,7 @@ I am building my career in cybersecurity through hands-on practice. I work throu
 
 | Platform | Profile | Rooms / machines completed | Notes |
 |---|---|---|---|
-| TryHackMe | [ADD LINK] | [ADD NUMBER] | [paths completed] |
+| TryHackMe | https://tryhackme.com/p/Kamgc | [ADD NUMBER] | [paths completed] |
 | Hack The Box | [ADD LINK] | [ADD NUMBER] | [machines rooted] |
 
 ## Write-ups
