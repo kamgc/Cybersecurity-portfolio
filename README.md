@@ -28,14 +28,14 @@ I am building my career in cybersecurity through hands-on practice. I work throu
 
 | Platform | Profile | Rooms / machines completed | Notes |
 |---|---|---|---|
-| TryHackMe | https://tryhackme.com/p/Kamgc | [1] | [In progress: Junior Penetration Tester] |
-| Hack The Box | [coming soon] | [coming soon] | [coming soon] |
+| TryHackMe | https://tryhackme.com/p/Kamgc | 1 | In progress: Junior Penetration Tester |
+| Hack The Box | [coming soon | [coming soon | [coming soon |
 
 ## Write-ups
 
 | # | Machine / Room | Platform | Difficulty | Main techniques |
 |---|---|---|---|---|
-| 1 | [CyberHeroes] | [THM] | [Easy] | [Authentication Bypass] |
+| 1 | [CyberHeroes | [THM | [Easy | [Authentication Bypass] |
 | 2 | _coming soon_ | | | |
 | 3 | _coming soon_ | | | |
 
