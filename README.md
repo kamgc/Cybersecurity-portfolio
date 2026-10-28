@@ -6,7 +6,8 @@ Industrial Engineer with a Master's Degree in Cybersecurity (Saint Leo Universit
 
 📧 camilo.campog@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/camilo-campo) · 🧪 [TryHackMe](https://tryhackme.com/p/Kamgc)
+🔗 [LinkedIn](https://www.linkedin.com/in/camilo-campo) · 
+🧪 [TryHackMe](https://tryhackme.com/p/Kamgc)
 
 ---
 
