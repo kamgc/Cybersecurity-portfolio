@@ -3,7 +3,7 @@
 Industrial Engineer with a Master's Degree in Cybersecurity (Saint Leo University, 2026), focused on offensive security and entry-level roles such as **Junior Penetration Tester**, **Junior Ethical Hacker** and **Security Analyst**.
 
 📍 Bogotá, Colombia · 🌐 Open to remote roles (US / Spain / LATAM)
-📧 camilo.campog@gmail.com · 🔗 LinkedIn: [ADD LINK] · 🧪 TryHackMe: [ADD LINK] · 🧪 Hack The Box: [ADD LINK]
+📧 camilo.campog@gmail.com · 🔗 LinkedIn: www.linkedin.com/in/camilo-campo · 🧪 TryHackMe:https://tryhackme.com/p/kamgc🧪 Hack The Box: 
 
 ---
 
