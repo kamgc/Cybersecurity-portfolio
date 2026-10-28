@@ -31,7 +31,7 @@ I am building my career in cybersecurity through hands-on practice. I work throu
 
 | # | Machine / Room | Platform | Difficulty | Main techniques |
 |---|---|---|---|---|
-| 1 | [Name](CyberHeroes) | [THM] | [Easy] | [Authentication Bypass] |
+| 1 | [CyberHeroes] | [THM] | [Easy] | [Authentication Bypass] |
 | 2 | _coming soon_ | | | |
 | 3 | _coming soon_ | | | |
 
