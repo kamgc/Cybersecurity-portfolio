@@ -3,7 +3,10 @@
 Industrial Engineer with a Master's Degree in Cybersecurity (Saint Leo University, 2026), focused on offensive security and entry-level roles such as **Junior Penetration Tester**, **Junior Ethical Hacker** and **Security Analyst**.
 
 📍 Bogotá, Colombia · 🌐 Open to remote roles (US / Spain / LATAM)
-📧 camilo.campog@gmail.com · 🔗 LinkedIn: www.linkedin.com/in/camilo-campo · 🧪 TryHackMe:https://tryhackme.com/p/Kamgc🧪 Hack The Box: 
+
+📧 camilo.campog@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/camilo-campo) · 🧪 [TryHackMe](https://tryhackme.com/p/Kamgc)
 
 ---
 
@@ -24,8 +27,8 @@ I am building my career in cybersecurity through hands-on practice. I work throu
 
 | Platform | Profile | Rooms / machines completed | Notes |
 |---|---|---|---|
-| TryHackMe | https://tryhackme.com/p/Kamgc | [ADD NUMBER] | [paths completed] |
-| Hack The Box | [ADD LINK] | [ADD NUMBER] | [machines rooted] |
+| TryHackMe | https://tryhackme.com/p/Kamgc | [1] | [In progress: Junior Penetration Tester] |
+| Hack The Box | [coming soon] | [coming soon] | [coming soon] |
 
 ## Write-ups
 
@@ -39,10 +42,8 @@ I am building my career in cybersecurity through hands-on practice. I work throu
 
 | Project | Description | Status |
 |---|---|---|
-| Sample penetration test report | Professional-style report based on a lab machine | Planned |
-| Home lab | Kali + vulnerable VM, documented setup | Planned |
-| Python recon script | Simple port scanner / recon automation | Planned |
-| Risk assessment | Risk matrix for a fictional organization | Planned |
+| Cybersecurity | write-ups, labs and projects (TryHackMe, Hack The Box | Planned |
+
 
 ## Certifications and education
 
