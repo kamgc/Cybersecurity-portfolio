@@ -43,7 +43,10 @@ I am building my career in cybersecurity through hands-on practice. I work throu
 
 | Project | Description | Status |
 |---|---|---|
-| Cybersecurity | write-ups, labs and projects (TryHackMe, Hack The Box | Planned |
+| Sample penetration test report | Professional-style report based on a lab machine | Planned |
+| Home lab | Kali + vulnerable VM, documented setup | Planned |
+| Python recon script | Simple port scanner / recon automation | Planned |
+| Risk assessment | Risk matrix for a fictional organization | Planned |
 
 
 ## Certifications and education
