@@ -1,6 +1,9 @@
 ﻿# CyberHeroes — TryHackMe (Easy)
 
-**Date:** 2026-10-28 · **Platform:** TryHackMe · **Target OS:** Linux (Ubuntu)
+**Date:** 2026-10-28 · 
+
+**Platform:** TryHackMe · **Target OS:** Linux (Ubuntu)
+
 **Skills practiced:** Port scanning and vulnerability scripts with Nmap, web enumeration, source code review, client-side authentication weaknesses
 
 ## 1\. Summary
@@ -30,7 +33,7 @@ SSH was not tested because no credentials or other leads for it were available i
 
 ## 3\. Enumeration
 
-Browsing to `http://<10.65.186.17>` and to `/login.html` (found by Nmap) showed a page with a login form. With no further information available, I inspected the page source (`Ctrl+U`).
+Browsing to `http://<TARGET_IP>` and to `/login.html` (found by Nmap) showed a page with a login form. With no further information available, I inspected the page source (`Ctrl+U`).
 
 The JavaScript validated the credentials directly in the browser:
 
